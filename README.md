@@ -1,2 +1,1 @@
-# friendly-octo-spoon
-Startup-Idea
+# Website created using HTML, CSS and Bootstrap
